@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JohnNgethe
-- 👀 Upcoming Pythin Developer
+- 👀 Upcoming Python Developer
 - 🌱 I’m currently learning Data analysis 
 - 📫 
 
