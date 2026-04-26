@@ -50,7 +50,7 @@ I am a software developer focused on designing, developing, and maintaining web 
 | 🐛 **Troubleshooting & Issue Resolution** | Diagnosing and fixing complex technical problems |
 
 ---
-
+<!---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -66,7 +66,7 @@ I am a software developer focused on designing, developing, and maintaining web 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnNgethe&theme=tokyonight&hide_border=true&background=0d1117&ring=7c6af7&fire=38d9a9&currStreakLabel=7c6af7" height="160"/>
 
 </div>
-
+--->
 ---
 
 ## 📫 Contact
